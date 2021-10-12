@@ -1,4 +1,4 @@
-# Joshua-Marinellis-Epic-HUD-Mod
+# Joshua Marinelli's Epic HUD Mod
 the one and only god gamer jmari
 
 Please only use this mod with a legally obtained copy of Kingdom Hearts 2: Final Mix for PlayStation 2 and a legally obtained PS2 BIOS.
