@@ -1,6 +1,9 @@
 # Joshua Marinelli's Epic HUD Mod
 the one and only god gamer jmari
 
+gameplay showcase:
+https://www.youtube.com/watch?v=xkuGOEaRfAo
+
 Please only use this mod with a legally obtained copy of Kingdom Hearts 2: Final Mix for PlayStation 2 and a legally obtained PS2 BIOS.
 
 If you would like to learn how to either dump your game or dump your PS2 BIOS I have a handy tutorial:
